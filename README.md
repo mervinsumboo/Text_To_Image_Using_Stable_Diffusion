@@ -59,3 +59,8 @@ image = pipe(prompt).images[0]
 print("[PROMPT]: ",prompt)
 plt.imshow(image);
 plt.axis('off');
+
+
+## Image generated
+
+![image](https://github.com/mervinsumboo/Text_To_Image_Using_Stable_Diffusion/assets/61121862/13c8e8d4-f01c-41ba-baa4-4d1636e52908)
